@@ -1,2 +1,3 @@
 # Jupyter_Notebooks
-Collection of examples of my real applications of the Data Science Methodology
+
+Here I maintain a collection of examples of my work in the context of the data science methodology.
